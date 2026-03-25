@@ -23,10 +23,7 @@ shield: [ "corne_left", "corne_right" ]
 include:
   - board: nice_nano
     shield: corne_left
-<<<<<<< Updated upstream
-=======
     artifact-name: corne_left_fw
->>>>>>> Stashed changes
   - board: nice_nano
     shield: corne_right
     artifact-name: corne_right_fw
